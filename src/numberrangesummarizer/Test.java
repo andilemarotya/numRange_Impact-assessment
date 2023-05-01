@@ -1,3 +1,4 @@
+package numberrangesummarizer;
 
 import java.util.Collection;
 
