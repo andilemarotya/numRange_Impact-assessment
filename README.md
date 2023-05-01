@@ -1,8 +1,5 @@
 # Impact's Takehome Assessment
-# Project's Title: Number Range Summarizer
-
-1. Project's Title:  Number Range Summarizer
-
+# 1.Project's Title: Number Range Summarizer
 
 
 2. Project's Description: Implementing a java interface to produce a comma delimited list of numbers,
