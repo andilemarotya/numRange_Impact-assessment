@@ -1,5 +1,5 @@
 # Impact's Takehome Assessment
-#Project's Title: Number Range Summarizer
+# Project's Title: Number Range Summarizer
 
 1. Project's Title:  Number Range Summarizer
 
