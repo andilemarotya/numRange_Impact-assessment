@@ -2,7 +2,7 @@
 # 1.Project's Title: Number Range Summarizer
 
 
-2. Project's Description: Implementing a java interface to produce a comma delimited list of numbers,
+2.Project's Description: Implementing a java interface to produce a comma delimited list of numbers,
    grouping the numbers into a range when they are sequential. 
    (e.g.) "1,2,3,4,6,8" => "1-4,6,8".
    
