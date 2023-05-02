@@ -50,6 +50,7 @@ public class cdListNumbers implements NumberRangeSummarizer {
                         StrList.add(Integer.toString(start)+"-"+Integer.toString(end));
                     }
 
+                    //here start and end are updated
                     start = colList.get(i);
                     end = colList.get(i);
                 }
