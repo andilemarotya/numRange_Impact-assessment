@@ -7,7 +7,7 @@ public class Test {
         cdListNumbers summarize = new cdListNumbers();
 
         /* "collect" method tests start here*/
-        String sampleInput = "1,3,6,7,8,12,13,14,15,21,22,23,24,31";
+        String sampleInput = "1,3,6,7,8,12,13,14,15,21,22,23,24,31,32";
 
         //Testing if the method "collect" returns a List / Arraylist
         System.out.println(summarize.collect(sampleInput));
